@@ -1,0 +1,248 @@
+ .body {
+    width: 1400px;
+    height: 1021px;
+    border: 1px solid black;
+
+}
+ 
+.header {
+    color: #212121;
+    margin: 100px 495px 25px 496px;
+    
+    width: 409px;
+    height: 38px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    white-space: nowrap;
+}
+.element {
+    margin: 25px 64px 30px 663px ;
+    width: 64px;
+    height: 2px;
+    left: 668px;
+    top: 163px;
+    border: 1px solid #E72424;  
+    background-color: #E72424;
+}
+.dos {
+    margin: 30px 518px 36px 519px ;
+    width: 363px;
+    height: 19px;
+    left: 519px;
+    top: 195px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #86878B; 
+}
+.content { 
+    margin-left: 0px;
+    align-self: flex-start; 
+    flex-direction: row; 
+    display: flex;
+    display: inline-flex;
+    flex-direction: row;
+    text-align: center;
+
+    width: 1400px;
+    height: 345px;
+    left: 0px;
+    top: 250px;  
+}
+.one {
+    width: 70px;
+    height: 70px;
+    left: 140px;
+    top: 0px;
+    border: 1px solid #E72424;
+    box-sizing: border-box; 
+    border-radius: 100%;
+    text-align: center;
+    margin-left: 140px;
+    margin-right: 140px;
+} 
+.two {
+    width: 70px;
+    height: 70px;
+    left: 140px;
+    top: 0px;
+    border: 1px solid #E72424;
+    box-sizing: border-box; 
+    border-radius: 100%;
+    text-align: center;
+    margin-left: 140px;
+    margin-right: 140px;   
+  }
+.three {
+    width: 70px;
+    height: 70px;
+    left: 140px;
+    top: 0px;
+    border: 1px solid #E72424;
+    box-sizing: border-box; 
+    border-radius: 100%;
+    text-align: center;
+    margin-left: 140px;
+    margin-right: 140px;       
+}
+.pic {
+    margin:20px 23px 20px 24px;
+}
+.pic2 {
+    margin:22px 16px 22px 16px;
+}
+.pic3 {
+    margin:19px 24px 18px 25px;
+}
+.kvadrat1 {
+
+    width: 360px;
+    height: 280px;
+    
+    margin: 67px 32px 0px 143px;
+}
+.kvadrat2 {
+
+    width: 360px;
+    height: 280px;
+     
+    margin: 67px 32px 0px 0px;
+}
+.kvadrat3 {
+
+    width: 360px;
+    height: 280px;
+     
+    margin: 67px 143px 0px 0px;
+}
+.well {
+    width: 189px;
+    height: 29px;
+    text-align: center;
+    margin-top: 30px;
+    padding-left: 80px;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    
+    color: #333333;
+}
+ 
+.text {
+    width: 350px;
+    height: 60px;
+    left: 0px;
+    top: 145px;
+    margin-top: 16px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.section {  
+    background-image: url(pic/image\ fon.png);
+    background-repeat: no-repeat;
+    background-position: left;  
+    margin: 0px 400px 0px 0px;
+    width: 1400px;
+    height: 325px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.axure {
+    color: #FFFFFF;
+    padding: 76px 476px 0px 495px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    white-space: nowrap;
+}
+.element2 {
+    margin: 48px 668px 0px 668px;
+    width: 64px;
+    height: 2px;
+    left: 668px;
+    top: 163px;
+    border: 1px solid #f50d0d;
+    background-color: #E72424;
+}
+.dos2 {
+    background-position: left;
+    padding: 30px 311px 30px 310px;
+    width: 779px;
+    height: 20px;
+         
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+         
+    color: rgba(255, 255, 255, 0.8);
+}
+
+button{
+    width: 135px;
+    height: 42px;
+    left: 632px;
+    top: 245px;
+    background-color: rgba(15, 15, 15, 0.1);
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    color: #FFFFFF;
+}
+.footer {
+    margin: 0px 400px 0px 0px; 
+    width: 1400px;
+    height: 101px;
+    left: 0px;
+    top: 0px;
+    background-color: #000000;
+    background-position: left;
+}
+.footer2 {
+    background-image: url(pic/31.png);
+    background-repeat: no-repeat;
+    background-position: left;  
+    margin: 0px 542px 0px 541px;
+    padding: 30px 542px 18px 541px;
+    height: 23px;
+    width: 317px;
+    height: 23px;
+}
+.leg {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+
+    color: rgba(255, 255, 255, 0.5);;
+    margin: 0px 635px 0px 635px;
+}
+.abr {
+    background: url() ;
+    margin-left: 5px;
+}
+
