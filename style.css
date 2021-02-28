@@ -2,13 +2,10 @@
     width: 1400px;
     height: 1021px;
     border: 1px solid black;
-
-}
- 
+} 
 .header {
     color: #212121;
-    margin: 100px 495px 25px 496px;
-    
+    margin: 100px 495px 25px 496px;    
     width: 409px;
     height: 38px;
     font-family: Raleway;
@@ -34,7 +31,6 @@
     height: 19px;
     left: 519px;
     top: 195px;
-
     font-family: Open Sans;
     font-style: normal;
     font-weight: normal;
@@ -51,7 +47,6 @@
     display: inline-flex;
     flex-direction: row;
     text-align: center;
-
     width: 1400px;
     height: 345px;
     left: 0px;
@@ -103,24 +98,18 @@
     margin:19px 24px 18px 25px;
 }
 .kvadrat1 {
-
     width: 360px;
-    height: 280px;
-    
+    height: 280px;    
     margin: 67px 32px 0px 143px;
 }
 .kvadrat2 {
-
     width: 360px;
-    height: 280px;
-     
+    height: 280px;     
     margin: 67px 32px 0px 0px;
 }
 .kvadrat3 {
-
     width: 360px;
-    height: 280px;
-     
+    height: 280px;     
     margin: 67px 143px 0px 0px;
 }
 .well {
@@ -134,11 +123,9 @@
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
-    line-height: 27px;
-    
+    line-height: 27px;    
     color: #333333;
-}
- 
+} 
 .text {
     width: 350px;
     height: 60px;
@@ -151,10 +138,8 @@
     font-size: 14px;
     line-height: 19px;
     text-align: center;
-
     color: #000000;
 }
-
 .section {  
     background-image: url(pic/image\ fon.png);
     background-repeat: no-repeat;
@@ -197,8 +182,7 @@
     font-weight: 300;
     font-size: 16px;
     line-height: 19px;
-    text-align: center;
-         
+    text-align: center;         
     color: rgba(255, 255, 255, 0.8);
 }
 
@@ -237,7 +221,6 @@ button{
     font-weight: normal;
     font-size: 12px;
     line-height: 16px;
-
     color: rgba(255, 255, 255, 0.5);;
     margin: 0px 635px 0px 635px;
 }
